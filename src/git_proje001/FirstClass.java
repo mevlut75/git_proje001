@@ -3,7 +3,7 @@ package git_proje001;
 public class FirstClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("ilk from ");
 
 	}
 
